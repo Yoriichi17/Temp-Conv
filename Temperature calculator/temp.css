@@ -1,0 +1,114 @@
+body {
+    background-image: url('https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+   
+}
+
+header {
+    display: flex;
+    position: relative;
+}
+
+#mc {
+    display: flex;
+    position: relative;
+   
+}
+
+#io{
+    position: absolute;
+    top: 250px;
+    left: 390px;
+    height: 50px;
+   
+}
+
+
+#fn {
+    width: 200px;
+    height: 52px;
+    font-size: larger;
+}
+
+#btn {
+    position: absolute;
+    top: 250px;
+    left: 800px;
+    width: 200px;
+    height: 60px;
+    font-size: larger;
+
+}
+
+#btn {
+    cursor: pointer;
+    border: 3px solid black;
+}
+ .main-content button:hover {
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+ }
+
+ #title {
+    position: absolute;
+    top: 350px;
+    left: 890px;
+ }
+
+
+ #para {
+    position: absolute;
+    top: 350px;
+    left: 470px;
+ }
+
+ #so{
+    position: absolute;
+    top: 450px;
+    left: 350px;
+    height: 50px;
+   
+}
+
+
+#sn {
+    width: 200px;
+    height: 52px;
+    font-size: larger;
+}
+
+#btn1 {
+    position: absolute;
+    top: 450px;
+    left: 800px;
+    width: 200px;
+    height: 60px;
+    font-size: larger;
+
+}
+
+#btn1 {
+    cursor: pointer;
+    border: 3px solid black;
+}
+ .main-content button:hover {
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+ }
+
+ #title1 {
+    position: absolute;
+    top: 570px;
+    left: 890px;
+ }
+
+
+ #para1 {
+    position: absolute;
+    top: 570px;
+    left: 470px;
+ }
